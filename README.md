@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 , soy Selena Guadalupe Canales García</h1>
+<h1 align="center">Hola 👋 , soy Selena Canales García</h1>
 <h3 align="center">Estudio en la Universidad Tecnológica de Tulancingo la carrera en Energías Renovables, me encantan los atardeceres, la música, y me encanta aprender cosas nuevas.</h3>
 
 - 📫 Cómo contactarme **selenacg348@gmail.com**
